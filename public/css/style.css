@@ -1,0 +1,41 @@
+.menu {
+    display: flex;
+    justify-content: center;
+    margin: o auto;
+}
+
+nav{
+    width: 1000px;
+    height: 60px;
+    border: 5vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 5vh;
+    font-size: 3vh;
+    font-weight: lighter;
+    margin-right: 5vh;
+}
+
+nav a{
+    text-decoration: none;
+}
+h1{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+p{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+.picture{
+   display: block;
+   margin: 0 auto;
+}
